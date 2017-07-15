@@ -3,3 +3,5 @@
 3. store the data in textfile
 4. use the backend to process the data,
 5. cron the Xpath data gathering hourly.
+
+Example: https://www.youtube.com/watch?v=6N8EwDcrNoo
